@@ -1,4 +1,4 @@
 {
-    "C_Cpp.clang_format_style": "{ BasedOnStyle: Chromium, IndentWidth: 2}",
-    "editor.tabSize": 2,
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Chromium, IndentWidth: 4}",
+    "editor.tabSize": 4,
 }
